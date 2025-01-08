@@ -1,1 +1,1 @@
-print('rubik3')
+print('5')
