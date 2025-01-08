@@ -1,1 +1,1 @@
-hi
+print('rubik2')
